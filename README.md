@@ -18,3 +18,6 @@ This project is a Pros & Cons List application built with React, TypeScript, and
 - Vite: Fast and modern build tool.
 - ESLint: Linting for consistent code style.
 - gh-pages: For deploying the app to GitHub Pages.
+
+## Deployment
+This app is deployed on githHub pages at https://norayrohanyan.github.io/pros-cons-list/
